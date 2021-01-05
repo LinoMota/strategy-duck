@@ -1,0 +1,11 @@
+{
+  "name": "strategy-duck",
+  "version": "1.0.0",
+  "main": "./src/Main.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
